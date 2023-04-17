@@ -1,10 +1,10 @@
 import './App.css';
-import ReactMemo from './features/ReactMemo';
+import UseCallBack from './hooks/UseCallBack';
 
 function App() {
   return (
     <div className="App">
-        <ReactMemo/>      
+        <UseCallBack />
     </div>
   );
 }
